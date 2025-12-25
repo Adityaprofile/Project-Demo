@@ -5,4 +5,4 @@ This is a project demo.
 Shradha Khapra
 
 # Student
-Delta Batch
+Sigma Batch
